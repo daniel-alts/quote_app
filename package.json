@@ -1,0 +1,25 @@
+{
+  "name": "quote_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scheduler": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://daniel-alts@github.com/daniel-alts/quote_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-alts/quote_app/issues"
+  },
+  "homepage": "https://github.com/daniel-alts/quote_app#readme",
+  "dependencies": {
+    "inspirational-quotes": "^2.0.1",
+    "node-schedule": "^2.1.1"
+  }
+}
